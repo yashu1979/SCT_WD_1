@@ -188,7 +188,7 @@ nav a {
 /* Yash Section */
 .yash {
   position: relative;
-  background: url('../Brewhaus/ss6.jpg') no-repeat center center/cover;
+  background: url(' ss6.jpg') no-repeat center center/cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
